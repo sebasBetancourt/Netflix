@@ -1,0 +1,9 @@
+:root{
+    --font-color-1: white;
+    --font-color-2: rgba(255,255,255,0.7);
+    --color-1: rgb(229,9,20);
+    --color-2: rgba(255, 255, 255, 0.1);
+    --background-color-1: #000;
+    --background-color-2: linear-gradient(to right, rgba(33, 13, 22, 1) 16%, rgba(184, 40, 105, 1), rgba(229, 9, 20, 1), rgba(184, 40, 105, 1), rgba(33, 13, 22, 1) 84%;
+    
+}
